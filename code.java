@@ -14,15 +14,15 @@ String nV1, nV2, nV3, nmax;
 
 Scanner clavier = new Scanner(System.in);
 
-System.out.println ("Entrez le chiffre et le vendeur 1"); 
+System.out.println ("Entrez le chiffre et le vendeur No 1"); 
 chV1 = clavier.nextDouble ();
 nV1 = clavier.next ();
 
-System.out.println ("Entrez le chiffre et le vendeur  2");   
+System.out.println ("Entrez le chiffre et le vendeur No 2");   
 chV2 = clavier.nextDouble ();
 nV2 = clavier.next ();
 
-System.out.println ("Entrez le chiffre et le vendeur  3");  
+System.out.println ("Entrez le chiffre et le vendeur No 3");  
 chV3 = clavier.nextDouble (); 
 nV3 = clavier.next ();
 
